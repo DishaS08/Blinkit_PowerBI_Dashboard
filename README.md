@@ -25,7 +25,7 @@ It provides a clear view of **sales trends, outlet performance, product categori
 3. Use the filter panel to interact with the dashboard and explore insights.  
 
 ## 🔹 Preview  
-![Blinkit Dashboard Screenshot](<img width="1055" height="608" alt="image" src="https://github.com/user-attachments/assets/a306913b-b122-45ed-908e-e16572a1e96f" />)  
+![Blinkit Dashboard Screenshot](https://github.com/user-attachments/assets/a306913b-b122-45ed-908e-e16572a1e96f)
 
 ## 🔹 About  
 A **Power BI dashboard** showcasing Blinkit’s performance analysis with insights on:  
